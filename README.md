@@ -4,4 +4,4 @@ http://127.0.0.1:5502/store.html
 http://127.0.0.1:5502/index.html
 
 
-https://github.com/Tanvirabdul/CST3145 this github page
+https://github.com/Tanvirabdul/CST3145 this is for github page
